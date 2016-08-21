@@ -57,7 +57,6 @@ Department of Mathematics, Simon Fraser University
 
 We consider the composite self-concordant (CSC) minimization problem, which minimizes the sum of a self-concordant function $f$ and a (possibly nonsmooth) proper closed convex function $g$. The CSC minimization is the cornerstone of the path-following interior point methods for solving a broad class of convex optimization problems. It has also found numerous applications in machine learning. The proximal damped Newton (PDN) methods have been well studied in the literature for solving this problem and they enjoy a nice iteration complexity. Given that at each iteration these methods typically require evaluating or accessing the Hessian of $f$ and also need to solve a proximal Newton subproblem, the cost per iteration can be prohibitively high for solving large-scale problems. To alleviate this difficulty, we propose a randomized block proximal damped Newton (RBPDN) method for solving the CSC minimization. Compared to the PDN methods, the computational cost per iteration of RBPDN is usually significantly lower. The computational experiment on a class of regularized logistic regression problems demonstrate that RBPDN is indeed promising in solving large-scale CSC minimization problems. The convergence of RBPDN is also analyzed. As a consequence, the complexity of the full damped Newton methods are improved.
 
-
 ## Terry Rockafellar
 
 Department of Mathematics, University of Washington
