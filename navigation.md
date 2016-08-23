@@ -1,5 +1,6 @@
 # WCOM Fall 2016
 
+[gimmick: math]()
 [gimmick:theme](spacelab)
 
 [Home](index.md)

@@ -51,6 +51,10 @@ Based on joint work with Sabyasachi Chatterjee, John Lafferty, and Yuancheng Zhu
 
 UBC Okanagan
 
+### On multi-marginal \\(c\\)-cyclically monotone sets with explicit \\(c\\)-splitting potentials
+
+Multi-marginal optimal transport plans are concentrated on \\(c\\)-splitting sets. It is known that \\(c\\)-splitting sets are multi-marginally \\(c\\)-cyclically monotone. Very recently, in a suitable framework, the converse implication was  established as well. However, for an arbitrary cost \\(c\\), given a multi-marginal \\(c\\)-cyclically monotone set, the question whether there exist an explicit construction of \\(c\\)-splitting potentials is still open. In the two-marginal case, such a construction is the well known generalization of Rockafellar's construction of a convex antiderivative from classical convex analysis. In this talk, we consider cost functions which are sums of two-marginal costs. We provide a sufficient condition on a set which does give rise to an explicit construction of \\(c\\)-splitting potentials based on the two-marginal construction. Our condition is, in principle, easier to verify than the one of multi-marginal \\(c\\)-cyclic monotonicity. In general, our condition is sufficient; however, it is not necessary. On the other hand, when the margins are one-dimensional equipped with classical cost functions, our condition is both sufficient and necessary.
+
 ## Zaid Harchoui
 
 Department of Statistics, University of Washington
