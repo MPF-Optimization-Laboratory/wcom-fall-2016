@@ -22,10 +22,20 @@ lounge of the UBC [Department of Computer Science](cs.ubc.ca) (see [Google maps]
 | 11:20 - 12:00	| [Zhaosong Lu](schedule.md#Zhaosong_Lu)       |
 | 12:00 - 13:30	| Lunch             |
 | 13:30 - 14:10	| [Yin Tat Lee](schedule.md#Yin_Tat_Lee)       |
-| 14:10 - 14:50	| Student Talks     |
+| 14:10 - 14:30	| [Reza Babenezhad](schedule.md#Reza_Babenezhad)     |
+| 14:30 - 14:50	| TBD     |
 | 14:50 - 15:10	| Break             |
 | 15:10 - 15:40	|[Terry Rockafellar](schedule.md#Terry_Rockafellar) |
 | 15:40 - 16:00	| Closing remarks   |
+
+## Reza Babanezhad
+
+Department of Computer Science, UBC Vancouver
+
+### Practical SVRG
+
+I present and analyze several strategies for improving the performance of stochastic variance-reduced gradient (SVRG) methods. I first show that the convergence rate of these methods can be preserved under a decreasing sequence of errors in the control variate, and use this to derive variants of SVRG that use growing-batch strategies to reduce the number of gradient calculations required in the early iterations. I further (i) show how to exploit support vectors to reduce the number of gradient computations in the later iterations, (ii) prove that the commonly–used regularized SVRG iteration is justified and improves the convergence rate, (iii) consider alternate mini-batch selection strategies, and (iv) consider the generalization error of the method.
+
 
 ## John Duchi
 
@@ -48,6 +58,11 @@ Department of Statistics, University of Washington
 ## Yin Tat Lee
 
 Department of Computer Science, University of Washington
+
+### Convex Optimization and the Maximum Flow Problem 
+
+In this talk, I will explain why the maximum flow problem is useful for our understanding of convex optimization. Then, I will survey some of the recent main results on this topic.
+
 
 ## Zhausong Lu
 
