@@ -8,7 +8,7 @@
 
 View a [more detailed map](https://maps.google.com/maps/ms?msid=206935814122343764231.00046d9d1f78b26a3814c&msa=0).
 
-Consult online with [Translink][http://www.translink.ca) for public-transportation maps and schedules.
+Consult online with [Translink](http://www.translink.ca) for public-transportation maps and schedules.
 
 ## Map of UBC
 
