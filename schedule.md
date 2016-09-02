@@ -3,8 +3,7 @@
 ## Friday
 
 
-Join us for a buffet dinner, 6:30-9pm in ICCS X860 (the 8th-floor
-lounge of the UBC [Department of Computer Science](cs.ubc.ca) (see [Google maps](https://maps.google.com/maps/ms?msid=206935814122343764231.00046d9d1f78b26a3814c&msa=0))
+Join us for a buffet dinner, 6:30-9pm in ICCS X860 (the 8th-floor lounge of the UBC [Department of Computer Science](cs.ubc.ca) (see [Google maps](https://maps.google.com/maps/ms?msid=206935814122343764231.00046d9d1f78b26a3814c&msa=0))
 
 - Cost: $20 for faculty and guests; $12 for students.
 - Please make sure to [registration.html register] if you plan to attend.
@@ -65,6 +64,10 @@ We introduce a generic scheme for accelerating gradient-based optimization metho
 ## Courtney Kempton
 
 Department of Mathematics, University of Washington
+
+#### An accelerated proximal method for minimizing compositions of convex functions with smooth maps.
+
+I will describe a new proximal algorithm for minimizing compositions of finite-valued convex functions with smooth mappings. When applied to convex optimization problems having an additive composite form, the algorithm reduces to a slight variant of FISTA. The method both realizes the best known complexity bound in optimality conditions for nonconvex problems with bounded domain, and achieves an accelerated rate under standard convexity assumptions. A natural convexity parameter of the composition quantifies the transition between the two modes of convergence. 
 
 ## Yin Tat Lee
 

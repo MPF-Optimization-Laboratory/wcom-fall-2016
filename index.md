@@ -1,7 +1,7 @@
 West Coast Optimization Meeting
 ==========================================
 
-The West Coast Optimization Meeting (WCOM) will be held <strong>October 1, 2016</strong>, at the University of British Columbia, Vancouver.
+The West Coast Optimization Meeting (WCOM) will be held **October 1, 2016**, at the University of British Columbia, Vancouver. There will be a dinner the evening before. See the [schedule](schedule.md) for details.
 
 **Venue:** All events will be held on the 8th floor lounge of the Department of Computer Science, located in ICICS X860 ([Google map](https://maps.google.com/maps/ms?msid=206935814122343764231.00046d9d1f78b26a3814c&msa=0)).
 
