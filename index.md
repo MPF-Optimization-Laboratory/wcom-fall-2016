@@ -10,6 +10,13 @@ Registration
 
 There is no registration fee, but please [register online](registration.md) so that we can plan accordingly.
 
+Sponsors
+----------
+
+We're delighted to acknowledge financial support from the
+[Pacific Institute for the Mathematical Sciences](https://www.pims.math.ca/)
+and from [1QBit](http://1qbit.com/).
+
 Wireless Access
 -------------------
 
