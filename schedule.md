@@ -89,3 +89,24 @@ We consider the composite self-concordant (CSC) minimization problem, which mini
 ## Terry Rockafellar
 
 Department of Mathematics, University of Washington
+
+#### Stochastic Variational Inequalities in a Dynamical Framework
+
+Most of the research on stochastic variational inequalities has
+concentrated on models in which information about the uncertain future 
+is revealed only once.  Such models are inadequate to cover multistage 
+stochastic programming, where information comes in stages that offer
+repeated opportunities for recourse decisions.  That feature can be
+brought into stochastic variational inequalities by adapting them to a 
+constraint of nonanticipativity.   In that way not only stochastic
+programming but multistage multiagent games can be covered.
+
+A particular advantage of this approach is that it generates information
+price vectors which can be used to decompose the overall problem into a
+separate problem for each scenario.  This fits with solution approaches
+like the progressive hedging algorithm.
+
+However, the ideas behind that algorithm offer the prospect of being
+applicable outside of a stochastic framework and under localized versions 
+of convexity/monotonicity which often may be elicited from the problem
+structure in the manner of augmented Lagrangian methodology.
