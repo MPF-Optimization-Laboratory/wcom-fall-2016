@@ -78,7 +78,7 @@ Department of Computer Science, University of Washington
 In this talk, I will explain why the maximum flow problem is useful for our understanding of convex optimization. Then, I will survey some of the recent main results on this topic.
 
 
-## Zhausong Lu
+## Zhaosong Lu
 
 Department of Mathematics, Simon Fraser University
 
