@@ -2,7 +2,6 @@
 
 ## Friday
 
-
 Join us for a buffet dinner, 6:30-9pm in ICCS X860 (the 8th-floor lounge of the UBC [Department of Computer Science](cs.ubc.ca) (see [Google maps](https://maps.google.com/maps/ms?msid=206935814122343764231.00046d9d1f78b26a3814c&msa=0))
 
 - Cost: $20 for faculty and guests; $12 for students.
@@ -24,7 +23,7 @@ Join us for a buffet dinner, 6:30-9pm in ICCS X860 (the 8th-floor lounge of the 
 | 14:10 - 14:30	| [Reza Babenezhad](schedule.md#Reza_Babenezhad)     |
 | 14:30 - 14:50	| [Courtney Kempton](schedule.md#Courtney_Kempton)     |
 | 14:50 - 15:10	| Break             |
-| 15:10 - 15:40	|[Terry Rockafellar](schedule.md#Terry_Rockafellar) |
+| 15:10 - 15:50	|[Terry Rockafellar](schedule.md#Terry_Rockafellar) |
 | 15:40 - 16:00	| Closing remarks   |
 
 ## Reza Babanezhad
