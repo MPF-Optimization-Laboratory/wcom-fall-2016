@@ -13,7 +13,7 @@ Join us for a buffet dinner, 6:30-9pm in ICCS X860 (the 8th-floor lounge of the 
 | Time          | Speaker           |
 |---------------|-------------------|
 |  8:30 -  9:00	| Breakfast         |
-|  9:00 -  9:40	| [John Duchi](schedule.md#John_Duchi)        |
+|  9:00 -  9:40	| [John Duchi](schedule.md#John_Duchi) |
 |  9:40 - 10:20	| [Zaid Harchaoui](schedule.md#Zaid_Harchoui)     |
 | 10:20 - 10:40	| Break             |
 | 10:40 - 11:20	| [Sedi Bartz](schedule.md#Sedi_Bartz)        |
@@ -37,6 +37,8 @@ I present and analyze several strategies for improving the performance of stocha
 ## John Duchi
 
 Department of Computer Science, Stanford University
+
+[talk slides](duchi_wcom_2016.pdf)
 
 #### Local Minimax Complexity of Stochastic Convex Optimization
 
