@@ -5,7 +5,7 @@
 Join us for a buffet dinner, 6:30-9pm in ICCS X860 (the 8th-floor lounge of the UBC [Department of Computer Science](cs.ubc.ca) (see [Google maps](https://maps.google.com/maps/ms?msid=206935814122343764231.00046d9d1f78b26a3814c&msa=0))
 
 - Cost: $20 for faculty and guests; $12 for students.
-- Please make sure to [registration.html register] if you plan to attend.
+- Please make sure to [register](registration.md) if you plan to attend.
 
 ## Saturday
 
@@ -29,6 +29,8 @@ Join us for a buffet dinner, 6:30-9pm in ICCS X860 (the 8th-floor lounge of the 
 ## Reza Babanezhad
 
 Department of Computer Science, UBC Vancouver
+
+[talk slides](babanezhad_wcom_2016.pdf)
 
 #### Practical SVRG
 
