@@ -93,6 +93,8 @@ We consider the composite self-concordant (CSC) minimization problem, which mini
 
 Department of Mathematics, University of Washington
 
+[talk slides](rockafellar_wcom_2016.pdf)
+
 #### Stochastic Variational Inequalities in a Dynamical Framework
 
 Most of the research on stochastic variational inequalities has
