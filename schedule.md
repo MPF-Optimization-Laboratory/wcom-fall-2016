@@ -13,17 +13,19 @@ Join us for a buffet dinner, 6:30-9pm in ICCS X860 (the 8th-floor lounge of the 
 | Time          | Speaker           |
 |---------------|-------------------|
 |  8:30 -  9:00	| Breakfast         |
-|  9:00 -  9:40	| [John Duchi](schedule.md#John_Duchi) |
+|  9:00 -  9:40	| [John Duchi](schedule.md#John_Duchi) [slides](duchi_wcom_2016.pdf)
+|
 |  9:40 - 10:20	| [Zaid Harchaoui](schedule.md#Zaid_Harchoui)     |
 | 10:20 - 10:40	| Break             |
 | 10:40 - 11:20	| [Sedi Bartz](schedule.md#Sedi_Bartz)        |
 | 11:20 - 12:00	| [Zhaosong Lu](schedule.md#Zhaosong_Lu)       |
 | 12:00 - 13:30	| Lunch             |
 | 13:30 - 14:10	| [Yin Tat Lee](schedule.md#Yin_Tat_Lee)       |
-| 14:10 - 14:30	| [Reza Babenezhad](schedule.md#Reza_Babenezhad)     |
+| 14:10 - 14:30	| [Reza Babenezhad](schedule.md#Reza_Babenezhad) [slides](babanezhad_wcom_2016.pdf)
+    |
 | 14:30 - 14:50	| [Courtney Kempton](schedule.md#Courtney_Kempton)     |
 | 14:50 - 15:10	| Break             |
-| 15:10 - 15:50	|[Terry Rockafellar](schedule.md#Terry_Rockafellar) |
+| 15:10 - 15:50	|[Terry Rockafellar](schedule.md#Terry_Rockafellar) [slides](rockafellar_wcom_2016.pdf)|
 | 15:40 - 16:00	| Closing remarks   |
 
 ## Reza Babanezhad
